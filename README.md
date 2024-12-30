@@ -5,10 +5,15 @@ This forecaster uses Monte Carlo simulation to predict the future value of a sto
 
 **Example:**
 ![Xnip2024-12-30_18-07-12](https://github.com/user-attachments/assets/54d374a1-f81d-4f40-8457-73ee2660f036)
+
 Stocks invested: ['NVDA', 'AAPL', 'TSLA', 'GOOG', 'RY.TO', 'TD.TO', 'CM.TO', 'BNS.TO', 'BMO.TO'] ($10,000 initial investment)
+
 Inflation rate: 0.03
+
 Historical data: Up to 4 years prior to 12/30/2024
+
 Number of simulations: 500
+
 Forecasted: 1 year (365 days)
-Weightings: [0.2205134  0.05153788 0.21790635 0.13933028 0.04126821 0.12320218
- 0.12336882 0.05958874 0.02328414] respectively
+
+Weightings: [0.2205134  0.05153788 0.21790635 0.13933028 0.04126821 0.12320218 0.12336882 0.05958874 0.02328414] respectively
